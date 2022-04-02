@@ -1,25 +1,25 @@
-# Change these first
-owner: zinc-email # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Upptime config file
+# See https://upptime.js.org/docs/configuration
+owner: zinc-email
+repo: upptime
 
 sites:
   - name: Zinc Website
     url: https://zinc.email/
+  - name: Zinc MTA (submission)
+    url: mail.zinc.email
+    port: 587
+    check: "tcp-ping"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Zinc Email uptime status
+  introTitle: "**Zinc Email** protects your inbox from spam, malware, and phishing."
+  introMessage: This page monitors the uptime and status of our services.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Zinc Email
+      href: https://zinc.email/
+  theme: night
