@@ -16,9 +16,9 @@ status-website:
   introTitle: "**Zinc Email** protects your inbox from spam, malware, and phishing."
   introMessage: This page monitors the uptime and status of our services.
   logoUrl: https://raw.githubusercontent.com/zinc-email/upptime/master/assets/zinc-icon.svg
-  name: Upptime
+  name: Zinc Email
   navbar:
-    - title: Zinc Email
+    - title: Home
       href: https://zinc.email/
     - title: Status
       href: /
