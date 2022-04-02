@@ -7,19 +7,19 @@ sites:
   - name: Zinc Website
     url: https://zinc.email/
   - name: Zinc MTA (submission)
-    url: mail.zinc.email
-    port: 587
     check: "tcp-ping"
+    port: 587
+    url: mail.zinc.email
 
 status-website:
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
   introTitle: "**Zinc Email** protects your inbox from spam, malware, and phishing."
   introMessage: This page monitors the uptime and status of our services.
+  logoUrl: https://raw.githubusercontent.com/zinc-email/upptime/master/assets/zinc-icon.svg
+  name: Upptime
   navbar:
-    - title: Status
-      href: /
     - title: Zinc Email
       href: https://zinc.email/
+    - title: Status
+      href: /
   theme: night
