@@ -4,19 +4,19 @@
     "url": "https://zinc.email/",
     "icon": "https://favicons.githubusercontent.com/zinc.email",
     "slug": "zinc-website",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.85%",
-    "time": 376,
-    "timeDay": 342,
-    "timeWeek": 369,
-    "timeMonth": 367,
-    "timeYear": 376,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.83%",
+    "time": 369,
+    "timeDay": 273,
+    "timeWeek": 338,
+    "timeMonth": 358,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2022-05-07": 79
+      "2022-05-07": 88
     }
   },
   {
