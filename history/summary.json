@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/zinc.email",
     "slug": "zinc-website",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.86%",
-    "time": 345,
-    "timeDay": 294,
-    "timeWeek": 228,
-    "timeMonth": 322,
-    "timeYear": 345,
+    "uptimeYear": "99.87%",
+    "time": 344,
+    "timeDay": 291,
+    "timeWeek": 210,
+    "timeMonth": 319,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2022-05-07": 79
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 64,
+    "time": 65,
     "timeDay": 81,
     "timeWeek": 56,
     "timeMonth": 65,
-    "timeYear": 64,
+    "timeYear": 65,
     "dailyMinutesDown": {}
   }
 ]
