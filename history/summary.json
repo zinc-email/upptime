@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 340,
-    "timeWeek": 334,
-    "timeMonth": 322,
-    "timeYear": 259,
+    "time": 258,
+    "timeDay": 454,
+    "timeWeek": 361,
+    "timeMonth": 329,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zinc-mta-submission",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 71,
+    "timeDay": 12,
     "timeWeek": 53,
     "timeMonth": 37,
-    "timeYear": 59,
+    "timeYear": 58,
     "dailyMinutesDown": {}
   }
 ]
