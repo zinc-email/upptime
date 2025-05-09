@@ -4,7 +4,7 @@
     "url": "https://zinc.email/",
     "icon": "https://icons.duckduckgo.com/ip3/zinc.email.ico",
     "slug": "zinc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,17 +14,19 @@
     "timeDay": 367,
     "timeWeek": 279,
     "timeMonth": 320,
-    "timeYear": 347,
-    "dailyMinutesDown": {}
+    "timeYear": 348,
+    "dailyMinutesDown": {
+      "2025-05-09": 0
+    }
   },
   {
     "name": "Zinc MTA (submission)",
     "url": "mail.zinc.email",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zinc-mta-submission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 19,
     "timeMonth": 23,
     "timeYear": 32,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-09": 0
+    }
   }
 ]
