@@ -1,7 +1,7 @@
 url: https://zinc.email/
-status: up
-code: 200
-responseTime: 136
-lastUpdated: 2025-06-24T23:10:28.760Z
+status: down
+code: 500
+responseTime: 604
+lastUpdated: 2025-06-25T02:56:28.191Z
 startTime: 2022-04-01T23:31:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
