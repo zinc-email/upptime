@@ -6,16 +6,17 @@
     "slug": "zinc-website",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "95.67%",
     "uptimeYear": "99.63%",
     "time": 330,
     "timeDay": 131,
     "timeWeek": 235,
     "timeMonth": 271,
-    "timeYear": 339,
+    "timeYear": 338,
     "dailyMinutesDown": {
+      "2025-07-27": 1,
       "2025-07-16": 1041,
       "2025-07-15": 856,
       "2025-06-25": 54,
@@ -27,9 +28,9 @@
     "url": "mail.zinc.email",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zinc-mta-submission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,6 +40,7 @@
     "timeMonth": 28,
     "timeYear": 31,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-05-09": 17
     }
   }
