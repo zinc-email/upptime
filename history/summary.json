@@ -4,11 +4,11 @@
     "url": "https://zinc.email/",
     "icon": "https://icons.duckduckgo.com/ip3/zinc.email.ico",
     "slug": "zinc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.51%",
     "time": 320,
     "timeDay": 282,
@@ -20,7 +20,8 @@
       "2025-07-16": 1041,
       "2025-07-15": 856,
       "2025-07-27": 581,
-      "2026-03-17": 62
+      "2026-03-17": 62,
+      "2026-06-17": 4
     }
   },
   {
@@ -28,9 +29,9 @@
     "url": "mail.zinc.email",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zinc-mta-submission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -41,7 +42,8 @@
     "timeYear": 34,
     "dailyMinutesDown": {
       "2025-07-27": 567,
-      "2026-03-17": 61
+      "2026-03-17": 61,
+      "2026-06-17": 0
     }
   }
 ]
